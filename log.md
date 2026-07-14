@@ -33,3 +33,7 @@ Key findings: 6 distinct Accelerator pitch variations, core tagline in 20+ video
 ## [2026-07-14] output | Artlist AI Prompt Pack
 Created outputs/artlist-prompts.md — copy-paste Artlist AI video + image prompts (and stock-search keywords) organized by Nick's 6 content pillars, plus thumbnail prompts and a house-style guide. Grounded in [[hot]], [[content-formula]], and pillar concept pages.
 Pages created: outputs/artlist-prompts.md
+
+## [2026-07-14] output | Artlist Shot List — "Elon / June 2026 Cluster" video
+Created outputs/artlist-prompts-elon-june-cluster.md — scene-by-scene AI-video B-roll prompts keyed to the actual VO of the Elon/SpaceX-IPO/June-cluster script. Organized by beat (cold open → Von Braun lineage → PayPal network → 2016 explosion → June cluster → price action → CTA → close), with real-people/logo guidance and house-style tail.
+Pages created: outputs/artlist-prompts-elon-june-cluster.md
