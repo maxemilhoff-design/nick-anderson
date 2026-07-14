@@ -29,3 +29,7 @@ Key findings: 6 distinct Accelerator pitch variations, core tagline in 20+ video
 - Added summary: field to all 35 source pages for faster AI scanning
 - Created 15 new hook pages for batch 2 videos (total hooks: 35)
 - Updated hook-index.md with new entries
+
+## [2026-07-14] output | Artlist AI Prompt Pack
+Created outputs/artlist-prompts.md — copy-paste Artlist AI video + image prompts (and stock-search keywords) organized by Nick's 6 content pillars, plus thumbnail prompts and a house-style guide. Grounded in [[hot]], [[content-formula]], and pillar concept pages.
+Pages created: outputs/artlist-prompts.md
