@@ -37,3 +37,7 @@ Pages created: outputs/artlist-prompts.md
 ## [2026-07-14] output | Artlist Shot List — "Elon / June 2026 Cluster" video
 Created outputs/artlist-prompts-elon-june-cluster.md — scene-by-scene AI-video B-roll prompts keyed to the actual VO of the Elon/SpaceX-IPO/June-cluster script. Organized by beat (cold open → Von Braun lineage → PayPal network → 2016 explosion → June cluster → price action → CTA → close), with real-people/logo guidance and house-style tail.
 Pages created: outputs/artlist-prompts-elon-june-cluster.md
+
+## [2026-07-15] skill | Nick Thumbnail Prompt Skill
+Created .claude/skills/nick-thumbnail/SKILL.md — a reusable Claude Code skill that writes image-edit thumbnail prompts in Nick's house style (fixed "Make this exact image but…" → "…4K professional photographer" bookends, composition/color/CTR framework, headline bank, worked example). Portable via git so it works on laptop too. Invoke with /nick-thumbnail.
+Files created: .claude/skills/nick-thumbnail/SKILL.md
